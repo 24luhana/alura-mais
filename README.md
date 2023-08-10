@@ -1,7 +1,4 @@
-sou luana ribeiro dos santos
-sou estudante do colegio do polivalente 
-os codigos são deelvolvidos durante o curso 
-as linguagems estudadas são *HTML* e *CSS*
+sou luana ribeiro dos santos 
+estudante do colegio polivalente
 
-
-luana.ribeiro.santos24@escola.pr.gov.br
+email; luana.ribeiro.santos24@escola.pr.gov.br
