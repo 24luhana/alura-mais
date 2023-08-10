@@ -1,5 +1,7 @@
-# Praticando-HTML-CSS
+sou luana ribeiro dos santos
+sou estudante do colegio do polivalente 
+os codigos são deelvolvidos durante o curso 
+as linguagems estudadas são *HTML* e *CSS*
 
-Based on Alura
 
-It's all for classes. Public Education System of Paraná.
+luana.ribeiro.santos24@escola.pr.gov.br
